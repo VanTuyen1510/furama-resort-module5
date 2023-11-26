@@ -1,0 +1,117 @@
+{
+  "employee": [
+    {
+      "name": "Bảo Minh",
+      "birthday": "15/10/1997",
+      "card": "2131231",
+      "phone": "1762564246",
+      "email": "dat@gmail.com",
+      "degree": "giám đốc",
+      "position": "{\"id\":2,\"type\":\"Phục vụ\"}",
+      "division": "sss",
+      "wage": "110",
+      "id": 2
+    },
+    {
+      "name": "Bảo Đạt",
+      "birthday": "15/10/1997",
+      "card": "2131231",
+      "phone": "1762564246",
+      "email": "dat@gmail.com",
+      "degree": "giám đốc",
+      "position": {
+        "id": 3,
+        "type": "Chuyên viên"
+      },
+      "division": "sss",
+      "wage": "110",
+      "id": 3
+    },
+    {
+      "name": "Bảo Đạt",
+      "birthday": "15/10/1997",
+      "card": "2131231",
+      "phone": "1762564246",
+      "email": "dat@gmail.com",
+      "degree": "giám đốc",
+      "position": {
+        "id": 2,
+        "type": "Phục vụ"
+      },
+      "division": "sss",
+      "wage": "110",
+      "id": 4
+    },
+    {
+      "name": "Bảo Đạt",
+      "birthday": "15/10/1997",
+      "card": "2131231",
+      "phone": "1762564246",
+      "email": "gmail.com",
+      "degree": "giám đốc",
+      "position": {
+        "id": 5,
+        "type": "quản lý"
+      },
+      "division": "sss",
+      "wage": "110",
+      "id": 5
+    },
+    {
+      "name": "",
+      "birthday": "",
+      "card": "",
+      "phone": "",
+      "email": "",
+      "degree": "",
+      "position": {
+        "id": 2,
+        "type": "Phục vụ"
+      },
+      "division": "",
+      "wage": 0,
+      "id": 6
+    },
+    {
+      "name": "Bảo Đạt",
+      "birthday": "15/10/1997",
+      "card": "2131231",
+      "phone": "1762564246",
+      "email": "dat@gmail.com",
+      "degree": "ssss",
+      "position": {
+        "id": 2,
+        "type": "Phục vụ"
+      },
+      "division": "sss",
+      "wage": 0,
+      "id": 7
+    }
+  ],
+  "positon": [
+    {
+      "id": 1,
+      "type": "Lễ tân"
+    },
+    {
+      "id": 2,
+      "type": "Phục vụ"
+    },
+    {
+      "id": 3,
+      "type": "Chuyên viên"
+    },
+    {
+      "id": 4,
+      "type": "giám sát"
+    },
+    {
+      "id": 5,
+      "type": "quản lý"
+    },
+    {
+      "id": 6,
+      "type": "giám đốc"
+    }
+  ]
+}
